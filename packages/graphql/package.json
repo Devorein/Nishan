@@ -36,7 +36,7 @@
     "@nishans/core": "0.0.35",
     "@nishans/endpoints": "0.0.32",
     "@nishans/utils": "0.0.25",
-    "apollo-server": "^2.21.0",
+    "apollo-server": "^3.0.0",
     "graphql": "^15.5.0",
     "graphql-type-json": "^0.3.2"
   },
