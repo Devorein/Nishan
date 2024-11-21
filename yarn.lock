@@ -2552,9 +2552,9 @@
     react-is "^16.8.0 || ^17.0.0"
 
 "@material-ui/pickers@^3.2.10":
-  version "3.2.10"
-  resolved "https://registry.yarnpkg.com/@material-ui/pickers/-/pickers-3.2.10.tgz#19df024895876eb0ec7cd239bbaea595f703f0ae"
-  integrity sha512-B8G6Obn5S3RCl7hwahkQj9sKUapwXWFjiaz/Bsw1fhYFdNMnDUolRiWQSoKPb1/oKe37Dtfszoywi1Ynbo3y8w==
+  version "3.3.11"
+  resolved "https://registry.yarnpkg.com/@material-ui/pickers/-/pickers-3.3.11.tgz#dfaaf49955f7bbe3b1c3720293f69dcddeab3ca4"
+  integrity sha512-pDYjbjUeabapijS2FpSwK/ruJdk7IGeAshpLbKDa3PRRKRy7Nv6sXxAvUg2F+lID/NwUKgBmCYS5bzrl7Xxqzw==
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@date-io/core" "1.x"
@@ -2808,6 +2808,16 @@
   version "0.0.28"
   resolved "https://registry.yarnpkg.com/@nishans/types/-/types-0.0.28.tgz#4319dbbbcbb36d375b619912f73168c36350c298"
   integrity sha512-b4niZI/9iEuYB2c8NXoYQbGrdLTN924lZrz1lR4Iy8DszsnWX5YX/Vg6+Om0mxqzbWmExmg4P7ow2kuNM9hW2Q==
+
+"@nishans/types@0.0.35", "@nishans/types@^0.0.35":
+  version "0.0.35"
+  resolved "https://registry.yarnpkg.com/@nishans/types/-/types-0.0.35.tgz#edbede935b6cf92b5d633ee60d7b348088fbd291"
+  integrity sha512-XlrfmggJpQ7CBJKVUqzxUD5/N2rr6j2qaPkeIWh86qX5Wu965D76eq7N79Wvt/jqDqCVjc8vjz5fIwwng4WnJg==
+
+"@nishans/types@0.0.47":
+  version "0.0.47"
+  resolved "https://registry.yarnpkg.com/@nishans/types/-/types-0.0.47.tgz#10a279b193a5ed5a2a4a547b7e34d78a3856426e"
+  integrity sha512-g2tYL6VL41Z5OEvhgeQMASXy9XEimzzAsbEtrktnoqwiUuf8M3Vw//1eKGgy/CFK4Gkz1oDGEF6M9YFB6DyVAA==
 
 "@nishans/utils@0.0.19":
   version "0.0.19"
