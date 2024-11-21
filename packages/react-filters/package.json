@@ -65,7 +65,7 @@
     "@nishans/types": "0.0.28",
     "@storybook/addon-actions": "^6.1.14",
     "@storybook/addon-essentials": "^6.1.14",
-    "@storybook/addon-links": "^6.1.14",
+    "@storybook/addon-links": "^8.1.11",
     "@storybook/react": "^6.1.14",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
